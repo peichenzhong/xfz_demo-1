@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26d8acd9-797b-4d06-b286-b6f93df8e6ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="SCSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WhMFAQNxBeYUB9sQ88dbfy9A49" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/front/src/css" />
+    <property name="list.type.of.created.stylesheet" value="textmate" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\xfzes\xfz\front\src\js" />
+      <recent name="C:\Users\Administrator\Desktop\xfzes\xfz\front\templates\cms" />
+      <recent name="C:\Users\Administrator\Desktop\xfzes\xfz\front\templates\cms\course" />
+      <recent name="C:\Users\Administrator\Desktop\xfzes\xfz\front\templates\course" />
+      <recent name="C:\Users\Administrator\Desktop\xfzes\xfz\front\dist" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\xfzes\xfz\front\src\css" />
+      <recent name="C:\Users\Administrator\Desktop\xfzes\xfz\front\templates" />
+      <recent name="C:\Users\Administrator\Desktop\xfzes\xfz\front\templates\course" />
+      <recent name="C:\Users\Administrator\Desktop\xfzes\xfz\front\src\js" />
+      <recent name="C:\Users\Administrator\Desktop\xfzes\xfz\front\dist" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="xfz" type="Python.DjangoServer" factoryName="Django server">
+      <module name="xfz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="xfz.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26d8acd9-797b-4d06-b286-b6f93df8e6ef" name="Default Changelist" comment="" />
+      <created>1579597268212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579597268212</updated>
+      <workItem from="1579597277291" duration="791000" />
+      <workItem from="1579598394727" duration="72004000" />
+      <workItem from="1580274439488" duration="148000" />
+      <workItem from="1580274692771" duration="53000" />
+      <workItem from="1580274859358" duration="179006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="74" width="1156" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580460606191">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="209" y="74" width="1156" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1580460606191" />
+    <state x="507" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580355631256">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="507" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1580355631256" />
+    <state x="594" y="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580721982600">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="594" y="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.860@0.0.1440.860" timestamp="1580721982600" />
+    <state x="587" y="228" key="EditFileWatcherDialog" timestamp="1579753948698">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="587" y="228" key="EditFileWatcherDialog/0.0.1440.860@0.0.1440.860" timestamp="1579753948698" />
+    <state x="615" y="181" key="FileChooserDialogImpl" timestamp="1581237021479">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="615" y="181" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1581237021479" />
+    <state width="1282" height="157" key="GridCell.Tab.0.bottom" timestamp="1581670500815">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1282" height="157" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1581670500815" />
+    <state width="1282" height="157" key="GridCell.Tab.0.center" timestamp="1581670500815">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1282" height="157" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1581670500815" />
+    <state width="1282" height="157" key="GridCell.Tab.0.left" timestamp="1581670500811">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1282" height="157" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1581670500811" />
+    <state width="1282" height="157" key="GridCell.Tab.0.right" timestamp="1581670500815">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1282" height="157" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1581670500815" />
+    <state x="338" y="68" key="SettingsEditor" timestamp="1580646948178">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="338" y="68" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1580646948178" />
+    <state x="412" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1579597357322">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="412" y="257" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1579597357306" />
+    <state x="639" y="176" width="672" height="678" key="search.everywhere.popup" timestamp="1581664226304">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="639" y="176" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1581664226304" />
+    <state x="557" y="340" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580719577246">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="557" y="340" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.860@0.0.1440.860" timestamp="1580719577246" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/front/templates/base/front_base.html</url>
+          <line>145</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Django零基础笔记/Django项目xfz实战代码/xfz/apps/cms/views.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
