@@ -16,8 +16,8 @@ import json
 Created on 2017-06-12
 
 """
-ACCESS_KEY_ID = "LTAI4FuGxkPh1gzD7PgMYpsF"
-ACCESS_KEY_SECRET = "sihAroflZaxGfrQuunT7ZTfTiIIzQR"
+ACCESS_KEY_ID = ""
+ACCESS_KEY_SECRET = ""
 
 # 注意：不要更改
 REGION = "cn-hangzhou"
